@@ -1,0 +1,77 @@
+#contenitore_generale{
+    padding-left: 0.5%;
+}
+.titoles{
+    font-size: 500%;
+    padding-top: 2%;
+}
+.normal_paragrapes{
+    font-size: 120%;
+}
+#background{
+    width: 100%;
+    background-image: url("../img/facciata olivetti.jpg");
+    backface-visibility: visible;
+    background-size: 100%;
+    background-position-y: 80%;
+}
+#titolo{
+    padding-top: 5rem;
+    padding-left: 2rem;
+    font-family: 'Righteous', cursive;
+    font-size: 10rem;
+    color: black;
+}
+#img_ingresso_museo_claccable_area{
+    width: 40%;
+}
+#img_ingresso_museo{
+    width: 100%;
+}
+#paragrafo_destinazione{
+    position: absolute;
+    top: 59%;
+    left: 43%;
+}
+#img_lettera_22_cliccable_area{
+    width: 30%;
+    position: relative;
+    top: 150%;
+    left: 70%;
+}
+#img_lettera_22{
+    width: 100%;
+}
+#paragrafo_lettera_22{
+    position: absolute;
+    top: 142%;
+    right: 30%;
+    padding-left: 0.7%;
+
+}
+#img_programma_101_cliccable_area{
+    width: 30%;
+}
+#img_programma_101{
+    width: 100%;
+}
+#paragrafo_programma_101{
+    position: absolute;
+    top: 220%;
+    left: 33%;
+}
+
+#crediti{
+    padding-top: 4%;
+    padding-right: 0.1%;
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
